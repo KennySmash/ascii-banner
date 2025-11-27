@@ -2,6 +2,9 @@
 
 A custom web component that renders text as ASCII art using FIGlet fonts. Perfect for creating retro terminal-style banners and headers.
 
+<img width="1231" height="138" alt="image" src="https://github.com/user-attachments/assets/15600cb2-5a6c-4b23-a5db-cd27d9f74eb2" />
+
+
 ## Overview
 
 The `ascii-banner` component converts plain text into stylized ASCII art using FIGlet font files (.flf format). It features automatic scaling, responsive sizing, and support for multiple font families and size presets.
